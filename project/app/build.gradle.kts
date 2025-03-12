@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace = "com.pixel87.ecm2425_prodtracker"
+    namespace = "com.pixel87.ecm2425_prodtracker.project"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.pixel87.ecm2425_prodtracker"
+        applicationId = "com.pixel87.ecm2425_prodtracker.project"
         minSdk = 26
         targetSdk = 35
         versionCode = 1
